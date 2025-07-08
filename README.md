@@ -99,7 +99,11 @@ This project is open-source under the MIT License.
 6.🤝 Contributing
 Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.
 
-👤 Author
-Built with ❤️ by Omillo Charles
-🌍 omytech.vercel.app
-📧 omytechkenya@gmail.com
+## 👤 Author
+
+Built with ❤️ by **Omillo Charles**  
+🌍  
+[https://omytech.vercel.app](https://omytech.vercel.app)  
+📧  
+omytechkenya@gmail.com
+
