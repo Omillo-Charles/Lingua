@@ -47,3 +47,59 @@
 ```bash
 git clone https://github.com/yourusername/linguaflow.git
 cd linguaflow
+```
+### 2. Install Dependencies
+```bash
+npm install
+```
+### 3. Configure API Keys
+Create a .env.local file and add:
+```bash
+NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key
+NEXT_PUBLIC_GOOGLE_API_KEY=your_google_translate_api_key
+```
+### 4. Run the App
+```bash
+npm run dev
+```
+### 5.Visit http://localhost:3000 to view the app.
+
+
+  📂 Folder Structure
+```bash
+/pages
+  index.tsx         # Home / translator UI
+  api/
+    translate.ts    # Text translation endpoint
+    voice.ts        # Voice processing (optional)
+  ...
+/components
+  Translator.tsx    # Main logic
+  LanguagePicker.tsx
+  Recorder.tsx
+/public
+  icons/
+  flags/
+/styles
+  globals.css
+.env.local
+```
+###🧠 Future Features
+1.📘 Phrasebook / Saved Translations
+
+2.🧭 Auto Language Detection
+
+3.📥 Export transcripts
+
+4.🗂️ Multi-language chat mode
+
+5.📜 License
+This project is open-source under the MIT License.
+
+6.🤝 Contributing
+Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.
+
+👤 Author
+Built with ❤️ by Omillo Charles
+🌍 omytech.vercel.app
+📧 omytechkenya@gmail.com
