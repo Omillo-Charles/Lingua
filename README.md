@@ -84,7 +84,7 @@ npm run dev
   globals.css
 .env.local
 ```
-###🧠 Future Features
+### 🧠 Future Features
 1.📘 Phrasebook / Saved Translations
 
 2.🧭 Auto Language Detection
