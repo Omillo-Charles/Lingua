@@ -23,7 +23,7 @@ export function Footer() {
         
         <div className="mt-4 pt-4 border-t border-gray-200/50 dark:border-gray-700/50">
           <p className="text-center text-xs text-gray-500 dark:text-gray-400">
-            © 2025 LinguaFlow. Powered by Google Gemini AI.
+            © 2025 LinguaFlow. Powered by Google Gemini AI. <span className="font-semibold text-blue-600 dark:text-blue-400">Built with OMYTECH</span>
           </p>
         </div>
       </div>
